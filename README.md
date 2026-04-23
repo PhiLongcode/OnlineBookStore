@@ -165,17 +165,22 @@ Swagger: `http://localhost:5047/swagger`
 
 ## Ảnh mô tả hệ thống
 
-### Quản trị đơn hàng
-![Danh sách đơn hàng](C:/Users/nguye/.cursor/projects/j-nh-p-ProjectSem3/assets/c__Users_nguye_AppData_Roaming_Cursor_User_workspaceStorage_9710ae4f539fb2de48dd66cd36984b24_images_image-f57542e3-5913-41ea-9442-c57367fc0152.png)
-![Chi tiết đơn hàng](C:/Users/nguye/.cursor/projects/j-nh-p-ProjectSem3/assets/c__Users_nguye_AppData_Roaming_Cursor_User_workspaceStorage_9710ae4f539fb2de48dd66cd36984b24_images_image-16eebf7f-d0d5-478b-9637-bcba948c1919.png)
-![Cập nhật trạng thái đơn](C:/Users/nguye/.cursor/projects/j-nh-p-ProjectSem3/assets/c__Users_nguye_AppData_Roaming_Cursor_User_workspaceStorage_9710ae4f539fb2de48dd66cd36984b24_images_image-fb6c1cad-2d36-494a-b2ae-a6a9cefbf143.png)
+### Logo hệ thống
+![Logo Online Book Store](frontend-users/public/images/Logo.png)
 
-### Quản lý danh mục
-![Màn hình danh mục sách](C:/Users/nguye/.cursor/projects/j-nh-p-ProjectSem3/assets/c__Users_nguye_AppData_Roaming_Cursor_User_workspaceStorage_9710ae4f539fb2de48dd66cd36984b24_images_image-14a44bf1-8dd0-4e40-a2ed-c549a7ee405b.png)
-
-### Giao diện người dùng
-![Trang chủ nhà sách](C:/Users/nguye/.cursor/projects/j-nh-p-ProjectSem3/assets/c__Users_nguye_AppData_Roaming_Cursor_User_workspaceStorage_9710ae4f539fb2de48dd66cd36984b24_images_image-ac792d4f-58ee-4554-a71b-4099426b8f18.png)
-![Trang thanh toán](C:/Users/nguye/.cursor/projects/j-nh-p-ProjectSem3/assets/c__Users_nguye_AppData_Roaming_Cursor_User_workspaceStorage_9710ae4f539fb2de48dd66cd36984b24_images_image-fb47ac09-2cfe-4697-b663-46d5b7d7a918.png)
+### Minh họa đăng nhập
+![Màn hình đăng nhập](FrontEnd/src/images/login.jpg)
 
 ### Dashboard quản trị
-![Trang tổng quan quản trị](C:/Users/nguye/.cursor/projects/j-nh-p-ProjectSem3/assets/c__Users_nguye_AppData_Roaming_Cursor_User_workspaceStorage_9710ae4f539fb2de48dd66cd36984b24_images_image-c20cbd74-5f68-4f21-8e80-8c58723db13f.png)
+![Dashboard quản trị](docs/images/dashboard.png)
+
+### Quản trị đơn hàng
+![Chi tiết đơn hàng](docs/images/order-detail.png)
+
+### Quản lý danh mục
+![Trang danh mục sách](docs/images/category.png)
+![Trang danh mục sách (biến thể)](docs/images/category-2.png)
+
+### Giao diện người dùng
+![Trang chủ nhà sách](docs/images/homepage.png)
+![Trang thanh toán](docs/images/checkout.png)
